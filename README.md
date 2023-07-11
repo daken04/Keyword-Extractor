@@ -13,7 +13,3 @@ When the user submits the form by clicking a button, I'll trigger the keyword ex
 
 Once the API responds with the extracted keywords, I'll format the response and display it to the user. I plan to use a modal component to show the keywords in a visually appealing manner. The modal will be shown when the data is fetched, and it will automatically close once the keywords are displayed.
 
-THIS IS HOW THE APPLICATION LOOKS
-
-![image](https://github.com/daken04/Keyword-Extractor/assets/66870873/9d351674-d8aa-47eb-bd59-df4b9576d72f)
-
